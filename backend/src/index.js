@@ -11,13 +11,10 @@ app.use(express.json({ limit: "10Mb" }));
 app.use(routes);
 
 // Conexão ao banco
-mongoose.connect(
-  "mongodb+srv://externalUser:DGXyPW43xtAYp0JY@mrpage.c6xur.mongodb.net/mrpage?retryWrites=true&w=majority",
-  {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-    useFindAndModify: false,
-  }
-);
+mongoose.connect(process.env.CONNECTION_DATABASE, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  useFindAndModify: false,
+});
 
 app.listen(3333);
