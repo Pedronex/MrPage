@@ -21,7 +21,7 @@
 
 - [Sobre](#about)
 - [Arquitetura](#pattern)
-- [Contribuidores](../CONTRIBUTING.md)
+- [Contribuidores](../docs/CONTRIBUTING.md)
 - [Autores](#authors)
 
 ## 🧐 Sobre <a name = "about"></a>
@@ -31,8 +31,12 @@ que você esqueceu de pegar para ler um dia
 
 ## Arquitetura <a name = "pattern"></a>
 
+- Docs
+  - Nesta pasta temos alguns documentos que são importantes para o projeto, como o código de conduta em inglês e portugues e a licença [MIT](../docs/LICENSE)
 - Backend:
   - Servidor da aplicação onde se localiza todas as requisições direcionadas ao banco de dados. Feita em [Node](https://nodejs.org/en/)
+- Mobile:
+  - A aplicação mobile se localiza nesta pasta, o projeto foi feito usando o [expo](https://expo.io), para acessar o meu perfil no expo [clique aqui](https://expo.io/@pedronex)
 
 ## ✍️ Autores <a name = "authors"></a>
 

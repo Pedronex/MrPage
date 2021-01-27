@@ -1,0 +1,13 @@
+{
+  "Dark": {
+    "background": "#1F1D2B",
+    "font": "#FAEBD7",
+    "header": "#8D80CC",
+    "button": "#274FF5"
+  },
+  "Light": {
+    "background": "#FAEBD7",
+    "font": "#1F1D2B",
+    "header": "#2D9CDB"
+  }
+}

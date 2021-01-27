@@ -4,7 +4,7 @@
   "description": "Service to application MrPage the new bookmark",
   "main": "src/index.js",
   "repository": "https://github.com/Pedronex/MrPage",
-  "author": "Pedronex & TiagoDev1",
+  "author": "Pedronex",
   "license": "MIT",
   "private": true,
   "scripts": {

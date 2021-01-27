@@ -17,4 +17,4 @@ mongoose.connect(process.env.CONNECTION_DATABASE, {
   useFindAndModify: false,
 });
 
-app.listen(3333);
+app.listen(process.env.PORT || 3333);
