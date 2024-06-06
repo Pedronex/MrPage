@@ -41,6 +41,5 @@ que você esqueceu de pegar para ler um dia
 ## ✍️ Autores <a name = "authors"></a>
 
 - [@Pedronex](https://github.com/Pedronex)
-- [@TiagoDev1](https://github.com/TiagoDev1)
 
 Veja a lista de [contribuidores](https://github.com/Pedronex/MrPage/contributors) que participaram deste projeto.
